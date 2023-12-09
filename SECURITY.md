@@ -1,3 +1,4 @@
+[codeql-bundle-linux64.tar.gz.checksum.txt](https://github.com/octokit/plugin-rest-endpoint-methods.js/files/13624060/codeql-bundle-linux64.tar.gz.checksum.txt)
 # Security Policy
 
 Thanks for helping make GitHub Open Source Software safe for everyone.
